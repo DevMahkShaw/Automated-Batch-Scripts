@@ -73,7 +73,7 @@ https://youtu.be/IECI72XEox0
 
 ### How to Use:
 
-1. Download the bat file.
+1. Download the bat file. **(There will be multiple audio bats to choose from but we'll be working with Universal - Muti-Audio to MP3.bat for this)**
 2. Drag n' drop the bat file to where you have the audio or music files located. Preferrably separated or you have selected few included in a folder.
 3. **Do not "Run as Administrator."** 
 4. Open/Execute.
