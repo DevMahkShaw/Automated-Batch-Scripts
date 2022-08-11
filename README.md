@@ -5,7 +5,7 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/108546884/184180384-a48d6bf9-b05c-4a86-94a1-8c95319dc548.png" width="150" title="Bat Icon">
  <br>
- <strong>Automated BAT Scripts</strong>
+ <strong>Automated Batch Scripts</strong>
 </p>
 
 <p align="center">
