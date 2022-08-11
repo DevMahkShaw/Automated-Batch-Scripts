@@ -107,6 +107,7 @@ FOR %%A IN ("*.pcm") Do ffmpeg -i "%%~nA.pcm" -c:v copy -map_metadata 0 -id3v2_v
 FOR %%A IN ("*.aiff") Do ffmpeg -i "%%~nA.aiff" -c:v copy -map_metadata 0 -id3v2_version 3 -b:a 320k "Converted/%%~nA.mp3"
 FOR %%A IN ("*.alac") Do ffmpeg -i "%%~nA.alac" -c:v copy -map_metadata 0 -id3v2_version 3 -b:a 320k "Converted/%%~nA.mp3"
 FOR %%A IN ("*.m4a") Do ffmpeg -i "%%~nA.m4a" -c:v copy -map_metadata 0 -id3v2_version 3 -b:a 320k "Converted/%%~nA.mp3"
+FOR %%A IN ("*.opus") Do ffmpeg -i "%%~nA.opus" -c:v copy -map_metadata 0 -id3v2_version 3 -b:a 320k "Converted/%%~nA.mp3"
 pause
 ```
 
